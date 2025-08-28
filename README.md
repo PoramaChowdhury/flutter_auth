@@ -1,16 +1,43 @@
-# flutter_auth
+# 🔐 Flutter Firebase Auth App (Flutter 3.35.2)
 
-A new Flutter project.
+A full Flutter authentication app using Firebase with support for:
 
-## Getting Started
+- ✅ Email & Password Sign In
+- ✅ User Registration (Sign Up)
+- ✅ Home Screen after login
+- ✅ Firebase Initialization
+- ✅ Cloud Firestore integration (optional)
 
-This project is a starting point for a Flutter application.
+> 🔧 Built with flutter 3.35.2-stable and firebase_auth ^6.0.1
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Firebase Email/Password Authentication
+- Sign In / Sign Up Forms
+- Home Screen after successful authentication
+- Error handling with Snackbars
+- Shared preferences or session logic (optional)
+
+---
+
+## 🛠 Tech Stack
+
+| Tool               | Version      |
+|--------------------|--------------|
+| Flutter SDK        | 3.35.2-stable|
+| firebase_auth      | ^6.0.1       |
+| firebase_core      | ^4.0.0       |
+| cloud_firestore    | ^6.0.0       |
+
+---
+
+## 🚀 Firebase Setup
+
+> Make sure you’ve completed this before running the app.
+
+1. Go to [Firebase Console](https://console.firebase.google.com/)
+2. Create a project & register your Android app
+3. Download google-services.json
+4. Place it in your project at:
