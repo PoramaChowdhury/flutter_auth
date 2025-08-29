@@ -61,6 +61,6 @@ See the full configuration in [android/build.gradle.kts](android/build.gradle.kt
 ### `Configure the pubspec.yml`
 See the full configuration in [pubspec.yaml](pubspec.yaml).
 
-### 🔧 Auth Code  
+## 🔧 Auth Code  
 See the full configuration in [/lib](/lib).
 
