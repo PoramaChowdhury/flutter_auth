@@ -53,10 +53,14 @@ Add the following configurations to your Android build files:
 See the full configuration in [android/app/build.gradle.kts](android/app/build.gradle.kts).
 
 
-## `Project-level android/build.gradle.kts`
+### `Project-level android/build.gradle.kts`
 See the full configuration in [android/build.gradle.kts](android/build.gradle.kts).
 
 ## 🔧Dependency Build Configuration
 
-## `configure the pubspec.yml`
+### `Configure the pubspec.yml`
 See the full configuration in [pubspec.yaml](pubspec.yaml).
+
+### 🔧 Auth Code  
+See the full configuration in [/lib](/lib).
+
