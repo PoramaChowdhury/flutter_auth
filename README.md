@@ -3,9 +3,9 @@
 A full Flutter authentication app using Firebase with support for:
 - ✅ Email & Password Sign In
 - ✅ User Registration (Sign Up)
+- ✅ Email verification 
 - ✅ Home Screen after login
 - ✅ Firebase Initialization
-- ✅ Cloud Firestore integration (optional)
 
 > 🔧 Built with Flutter 3.35.2-stable and `firebase_auth` ^6.0.1
 
